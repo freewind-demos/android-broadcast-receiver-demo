@@ -1,4 +1,4 @@
-package demos
+package demos.android.broadcast.receiver.demo
 
 import android.content.BroadcastReceiver
 import android.content.Context
